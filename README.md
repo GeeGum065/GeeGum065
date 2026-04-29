@@ -1,4 +1,8 @@
-<h2 align="left">Hi 👋! My name is Gui and I am a data analyst and AI researcher from Brazil!</h2>
+<h2 align="left">Hello World!</h2>
+
+###
+
+<h4 align="left">I am Gui, a student of Data Science and Artificial Inteligence at PUC-Campinas</h4>
 
 ###
 
@@ -23,6 +27,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
 </div>
 
 ###
@@ -32,7 +38,5 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
-
-###
 
 ###
