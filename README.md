@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Gui and I am a data analyst from Brazil!</h2>
+<h2 align="left">Hi 👋! My name is Gui and I am a data analyst and AI researcher from Brazil!</h2>
 
 ###
 
